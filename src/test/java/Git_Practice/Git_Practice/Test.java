@@ -6,6 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("inside Test of p1");
+		System.out.println("inside Test of p1");
+		System.out.println("inside Test of p1");
 	}
 
 }
