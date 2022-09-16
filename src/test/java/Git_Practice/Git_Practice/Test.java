@@ -9,8 +9,6 @@ public class Test {
 		System.out.println("inside Test of p1");
 		System.out.println("inside Test of p1");
 		System.out.println("inside Test of p1");
-		
-		System.out.println("This is mentoring git session");
 	}
 
 }
