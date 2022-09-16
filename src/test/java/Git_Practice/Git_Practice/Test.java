@@ -9,6 +9,9 @@ public class Test {
 		System.out.println("inside Test of p1");
 		System.out.println("inside Test of p1");
 		System.out.println("inside Test of p1");
+		
+		System.out.println("Mentorship1");
+		System.out.println("Mentorship2");
 	}
 
 }
